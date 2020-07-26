@@ -13,3 +13,5 @@ git commit -m "a"
 git push origin master
 git status
 history
+git log
+git status
